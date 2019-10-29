@@ -1,0 +1,15 @@
+{
+  "name": "pubg",
+  "version": "1.0.0",
+  "description": "match of program master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "net": "^1.0.2"
+  }
+}
